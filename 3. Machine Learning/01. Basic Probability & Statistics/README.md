@@ -1,4 +1,4 @@
-**Basic Probability & Statistics for Machine Learning**
+**Basic Probability & Statistics**
 
 <br>
 

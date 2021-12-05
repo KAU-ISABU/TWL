@@ -3,6 +3,16 @@ Today We Learned
 
 한국항공대학교 이웃사촌부 동아리 소속 소프트웨어학과 학생들이 공부한 내용을 정리하는 저장소입니다.
 
+- [0. Languages](https://github.com/Themion/TWL/tree/main/0.%20Languages)
+- [1. CS](https://github.com/Themion/TWL/tree/main/1.%20CS)
+- [2. Web](https://github.com/Themion/TWL/tree/main/2.%20Web)
+- [3. Machine Learning](https://github.com/Themion/TWL/tree/main/3.%20Machine%20Learning)
+- [4. Big Data](https://github.com/Themion/TWL/tree/main/4.%20Big%20Data)
+- [5. Blockchain](https://github.com/Themion/TWL/tree/main/5.%20Blockchain)
+- [6. Mobile](https://github.com/Themion/TWL/tree/main/6.%20Mobile)
+- [7. IoT](https://github.com/Themion/TWL/tree/main/7.%20IoT)
+- [8. Tools](https://github.com/Themion/TWL/tree/main/8.%20Tools)
+- [9. KAU](https://github.com/Themion/TWL/tree/main/9.%20KAU)
 
 ## Rules
 

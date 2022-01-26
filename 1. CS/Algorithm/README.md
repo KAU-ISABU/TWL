@@ -4,7 +4,7 @@
 
 자료구조면서 알고리즘 풀이에 자주 활용되는 경우 이 곳에 작성하고 자료구조 폴더에 링크를 달아주세요.
 
-[Sorting](https://github.com/KAU-ISABU/TWL/blob/main/1.%20CS/Algorithm/Sorting.md) - 작성중
+[정렬 Sorting](https://github.com/KAU-ISABU/TWL/blob/main/1.%20CS/Algorithm/Sorting.md) - 작성완료
 
 [순열]()
 

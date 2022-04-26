@@ -14,4 +14,4 @@ DB와의 작업
 어플리케이션에서 기능을 수행하기 위해 필요한 정보를 저장
 table,column,rows로 구성
 **RDB**인경우 **SQL**로 작업(Oracle,Mysql)
-NoSQL DB인 경우 SQL이 아니더라도 작업 가능
+**NoSQL DB**인 경우 SQL이 아니더라도 작업 가능

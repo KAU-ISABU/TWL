@@ -1,4 +1,3 @@
-
 # Django란?
 Python으로 구현된 프레임워크
 ## Django의 장점
